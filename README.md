@@ -56,9 +56,9 @@ RosembergBR
 
 # :gift: Gratidão
 
-Agradeço por visitar este simples projeto para você, mais de grande importância para mim.
+Agradeço a sua visita e fique a vontade para dar a sua opinião.
 
-Fique a vontade para dar a sua opinião.
+
 
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
