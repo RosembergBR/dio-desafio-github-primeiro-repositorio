@@ -1,4 +1,4 @@
-# Conteudo de abertura
+# Conteudo de abertura.
 
 ### Mentoria (Live)
 Mentoria #1: Aula inaugural - Spread
