@@ -1,4 +1,4 @@
-# ReactJS
+# ReactJS - 08 Atividades
 
 ### Cursos
  * Introdução ao ReactJS
@@ -9,7 +9,7 @@
  * Introdução a Reduz com ReactJS
 
 ### Desafio de código
-Desafios Intermediários JS - Spread FullStack
+ * Desafios Intermediários JS - Spread FullStack
 
 ### Desafio de projeto
-Criando um front-end totalmente componentizado na prática com ReactJS
+ * Criando um front-end totalmente componentizado na prática com ReactJS
