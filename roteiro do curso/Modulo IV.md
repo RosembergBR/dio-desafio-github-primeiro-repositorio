@@ -1,4 +1,4 @@
-# ReactJS
+# ReactJS.
 
 ### Cursos
  * Introdução ao ReactJS
