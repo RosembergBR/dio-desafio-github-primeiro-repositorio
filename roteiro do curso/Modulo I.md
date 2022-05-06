@@ -1,7 +1,7 @@
 # Conteudo de abertura - 05 Atividades
 
 ### Mentoria (Live)
-Mentoria #1: Aula inaugural - Spread
+ * Mentoria #1: Aula inaugural - Spread
 
 ### Cursos
  * Boas vindas ao Bootcamp: Spread Fullstack Developer
