@@ -1,4 +1,4 @@
-# Javascript
+# Javascript.
 
 ### Cursos
  * Introdução ao Javascript
