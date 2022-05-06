@@ -1,4 +1,4 @@
-# HTML/CSS3.
+# HTML/CSS3
 
 ### Cursos
  * Primeiros passos para desenvolvimento web
