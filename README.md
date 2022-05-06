@@ -54,11 +54,6 @@ RosembergBR
 
 
 
-# :gift: Gratidão
+## :gift: Gratidão
 
 Agradeço a sua visita e fique a vontade para dar a sua opinião.
-
-
-
-## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
