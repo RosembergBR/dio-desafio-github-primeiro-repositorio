@@ -1,4 +1,4 @@
-# Banco de Dados
+# Banco de Dados - 02 Atividades
 
 ### Cursos
  * MySql - Trabalhando com as suas primeiras tabelas
