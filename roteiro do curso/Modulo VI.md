@@ -1,4 +1,4 @@
-   # NodeJS
+   # NodeJS - 07 Atividades
 
    ### Cursos
     * Introdução a APISs e métodos HTTP
@@ -8,7 +8,7 @@
     * Node.js com Bancos de Dados Relacionais (SQL)
 
    ### Desafio de código
-   Desafios Finais Js - Spread FullStack
+    * Desafios Finais Js - Spread FullStack
 
    ### Desafio de projeto
-   Contruindo Encurtador de URL
+    * Contruindo Encurtador de URL
