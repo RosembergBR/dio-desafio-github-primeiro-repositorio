@@ -1,4 +1,4 @@
-# HTML/CSS3
+# HTML/CSS3 - 04 Atividades
 
 ### Cursos
  * Primeiros passos para desenvolvimento web
@@ -6,4 +6,4 @@
  * Posicionando elementos com Flexbox em CSS
 
 ### Desafio de projeto
-Recriando a página inicial do Instagram
+ * Recriando a página inicial do Instagram
