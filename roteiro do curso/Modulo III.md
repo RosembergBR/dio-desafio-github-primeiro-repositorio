@@ -1,4 +1,4 @@
-# Javascript
+# Javascript - 14 Atividades
 
 ### Cursos
  * Introdução ao Javascript
@@ -15,7 +15,7 @@
  * Introdução ao TypeScript: Explorando Clasees, Tipos e Interfaces 
 
 ### Desafio de código
-Desafios iniciais Js = Spread FullStack
+ * Desafios iniciais Js = Spread FullStack
 
 ### Desafio de projeto
-Aprenda a criar um sistema de estacionamento usando TypeScript
+ * Aprenda a criar um sistema de estacionamento usando TypeScript
