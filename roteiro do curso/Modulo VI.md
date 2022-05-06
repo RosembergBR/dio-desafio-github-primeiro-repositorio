@@ -1,4 +1,4 @@
-   # NodeJS
+   # NodeJS.
 
    ### Cursos
     * Introdução a APISs e métodos HTTP
